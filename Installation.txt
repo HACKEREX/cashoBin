@@ -1,0 +1,10 @@
+install nodejs(Online Download kr ke install kr lena)
+
+open Command Prompt in(Admin){Start Menu pe Right Click}
+Usme Command Likho
+npm install -g angular-cli
+
+Zip uninstall Kro Jo Mail Kiye Hai
+folder me Command Prompt se
+fir uske baad "ng serve" type kro 
+aur google chrome khole url localhost:4200 dekho
